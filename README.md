@@ -18,7 +18,7 @@
   9. [Tools and Softwares](#️-tools-software-and-libraries)
 
 
-## 📌 Problem Statement
+## Problem Statement
 <details>
 <summary>
 View Statement ⬇️
@@ -30,7 +30,7 @@ The problem: How can we track sales performance, seller activity, and product-le
 </details>
 
 
-## ⭐ Project Planning using Star Method
+## Project Planning using Star Method
 <details>
 
 <summary>
@@ -42,21 +42,21 @@ View Stratergy ⬇️
 - Enable drilldowns: from overview → product listings → product-level insights
 - Design dashboards with clear filters and interactions
 
-### 📝 S - Situation
+### S - Situation
 Amazon’s apparel sales data was scattered, making it hard for stakeholders to track performance across sellers, cities, and products. A unified, interactive view was needed for better decision-making.
 
-### 🎯 T - Task
+### T - Task
 - Create Interactive Power BI Dashboard
 - Track overall sales, units, and sellers
 - Monitor city-wise and state-wise performance
 - Provide drillthrough to product and product-level views
 - Ensure stakeholders could filter by sales/units dynamically
 
-### ⚡ A - Action
+### A - Action
 
 I collected raw Amazon Fashion sales data, cleaned and formatted it, and created a dynamic option to switch between sales and units. Key measures like overall sales, seller count, and reviews were built in Power BI for analysis. Dashboards were designed at three levels — Overview, Products, and Product View — to track performance from high-level trends down to individual products.
 
-### 🏆 R - Result
+### R - Result
 
 - The dashboard revealed top-performing states and cities, highlighted product-level gaps such as low-rated SKUs, and gave management a clear tool to track sales and units. 
 
@@ -67,7 +67,7 @@ I collected raw Amazon Fashion sales data, cleaned and formatted it, and created
 </details>
 
 
-## 📂 Data Source
+## Data Source
 <details>
 <summary>
 View Source ⬇️
@@ -80,7 +80,7 @@ View Source ⬇️
 </details>
 
 
-## 🔄 Data Preprocessing & ETL
+## Data Preprocessing & ETL
 <details>
 <summary>
 View ETL Process ⬇️
@@ -115,7 +115,7 @@ View ETL Process ⬇️
 </details>
 
 
-## 🗄️ Data Modelling
+## Data Modelling
 <details>
 <summary>
 View Modeling ⬇️
@@ -153,7 +153,7 @@ The data model was designed in Power BI to connect transactional and reference d
 </details>
 
 
-## 📊 Data Analysis
+## Data Analysis
 <details>
 <summary>
 View Analysis ⬇️
@@ -212,7 +212,7 @@ Table Implemented:
 
 </details>
 
-## 📈 Dashboard
+## Dashboard
 <details>
 <summary>
 View Images ⬇️
@@ -230,7 +230,7 @@ View Images ⬇️
   <img width="700" height="400" alt="Image" src="https://github.com/user-attachments/assets/90254f0e-44d7-4d1a-9e17-7130f9ff4d1f" />
 </details>
 
-## ❓Findings
+## Findings
 <details>
 <summary> 
 View Findings ⬇️
@@ -245,7 +245,7 @@ View Findings ⬇️
 </details>
 
 
-## ⚙️ Tools, Software and Libraries
+## Tools, Software and Libraries
 <details>
 <summary> 
 View tools ⬇️
