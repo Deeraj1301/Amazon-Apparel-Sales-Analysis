@@ -124,7 +124,7 @@ View Modeling ⬇️
 
 The Data Model illustrates the correlation between various tables. The following is the Data Model of sales Data:
 
-![Data Model](https://github.com/Ramya-Mahi/Sales-Insights-Data-Analysis/assets/110104347/f93ed141-9721-42f0-beea-310678a812d2)<br>
+<img width="986" height="591" alt="Image" src="https://github.com/user-attachments/assets/d9cac1b5-b15b-4e81-be20-e636134bbecd" /> <br>
 
 The data model was designed in Power BI to connect transactional and reference data for better analysis:
 
@@ -227,14 +227,17 @@ Table Implemented:
 View Images ⬇️
 </summary>
 
-> ### 1. Key Insights
-> ![Screenshot 2023-10-12 123505](https://github.com/Ramya-Mahi/Sales-Insights-Data-Analysis/assets/110104347/f7da21fd-617d-4e85-82b6-d25e41af2514)
+> ### 1. OverView
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNTc4MTc1ZWQtNTU4NC00NGY3LTg5NTQtNzhlNmQ5MDI3MTQwIiwidCI6IjM3MzhkYjE5LTA4MzUtNDhmZS05MjhiLWMxZjI3ZmNkN2Y2NCJ9" target="_blank">
+  <img width="1286" height="733" alt="Image" src="https://github.com/user-attachments/assets/9bb51257-c8cc-4784-b4e8-9442103f0c96" />
+</a>
 
-> ### 2. Insights Key
-> ![Screenshot 2023-10-12 123505](https://github.com/Ramya-Mahi/Sales-Insights-Data-Analysis/assets/110104347/f7da21fd-617d-4e85-82b6-d25e41af2514)
+> ### 2. Products
+  <img width="1278" height="732" alt="Image" src="https://github.com/user-attachments/assets/7e19ada0-3cde-49f7-a352-119cacda5eaa" />
 
+> ### 3. Products View
+  <img width="1291" height="736" alt="Image" src="https://github.com/user-attachments/assets/90254f0e-44d7-4d1a-9e17-7130f9ff4d1f" />
 </details>
-
 
 ## ❓Findings
 <details>
