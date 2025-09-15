@@ -1,4 +1,5 @@
 # 🛒 Amazon Apparel Sales Performances
+[![View Dashboard](https://img.shields.io/badge/View%20Dashboard-Click%20Here-black?style=for-the-badge&logo=powerbi&logoColor=yellow&labelColor=yellow)](https://app.powerbi.com/view?r=eyJrIjoiZTM3YjYwNjItZGNiNC00OWI4LWJhYTUtNWU2NTk2ZjA0NGU2IiwidCI6IjU3ZmJiOTI1LWVmMWEtNDAzOC1hMGJmLTVlOTM1YTMzYzk2MiJ9&embedImagePlaceholder=true)
 
 ## 📑 Table of Contents
 - [🛒 Amazon Apparel Sales Performances](#-amazon-apparel-sales-performances)
@@ -228,7 +229,6 @@ View Images ⬇️
 </summary>
 
 > ### 1. OverView
-> ![View Dashboard](https://img.shields.io/badge/View%20Dashboard-Click%20Here-black?style=for-the-badge&logo=powerbi&logoColor=yellow&labelColor=yellow)
   <a href="https://app.powerbi.com/view?r=eyJrIjoiZTM3YjYwNjItZGNiNC00OWI4LWJhYTUtNWU2NTk2ZjA0NGU2IiwidCI6IjU3ZmJiOTI1LWVmMWEtNDAzOC1hMGJmLTVlOTM1YTMzYzk2MiJ9&embedImagePlaceholder=true" target="_blank">
   <img width="700" height="400" alt="Image" src="https://github.com/user-attachments/assets/9bb51257-c8cc-4784-b4e8-9442103f0c96" />
 </a>
