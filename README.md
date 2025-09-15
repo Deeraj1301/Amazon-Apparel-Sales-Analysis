@@ -185,19 +185,11 @@ var _sale = SUM(Amazon[Total_Ammount])
 return IF(selecting="1",_sale,_units)
 ```
 
-5. Sale_Units 
-```
-= var selecting = SELECTEDVALUE(Sale_Option[Type])
-var _units =SUM(Amazon[Qty])
-var _sale = SUM(Amazon[Total_Ammount])
-return IF(selecting="1",_sale,_units)
-```
-
-6. All_Sale 
+5. All_Sale 
 ```
 = CALCULATE([Sale_Units],ALL('amazon-fashion'[Category]))
 ```
-7. Order_Counts 
+6. Order_Counts 
 ```
 = var val = CALCULATE(COUNT('amazon-fashion'[seller_id]),CONTAINSSTRING(Amazon[Status],"Delivered"))
 return IF(val=BLANK(),"0",val)
