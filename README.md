@@ -1,7 +1,7 @@
 # 🛒 Amazon Apparel Sales Performances
 [![View Dashboard](https://img.shields.io/badge/View%20Dashboard-Click%20Here-black?style=for-the-badge&logo=powerbi&logoColor=yellow&labelColor=yellow)](https://app.powerbi.com/view?r=eyJrIjoiZTM3YjYwNjItZGNiNC00OWI4LWJhYTUtNWU2NTk2ZjA0NGU2IiwidCI6IjU3ZmJiOTI1LWVmMWEtNDAzOC1hMGJmLTVlOTM1YTMzYzk2MiJ9&embedImagePlaceholder=true)
 
-  <a href="https://datascienceportfol.io/deerajS", target="_blank">
+  <a href="https://datascienceportfol.io/deerajS" target="_blank">
   <img width="300" height="250" alt="Image" src="https://github.com/user-attachments/assets/e5c51953-e920-4b31-8c91-cf8227ad7185" />
   </a>
 
