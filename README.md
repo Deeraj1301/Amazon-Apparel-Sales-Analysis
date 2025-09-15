@@ -5,23 +5,16 @@
   <img width="300" height="250" alt="Image" src="https://github.com/user-attachments/assets/e5c51953-e920-4b31-8c91-cf8227ad7185" />
   </a>
 
-## 📑 Table of Contents
-- [🛒 Amazon Apparel Sales Performances](#-amazon-apparel-sales-performances)
-  - [📑 Table of Contents](#-table-of-contents)
-  - [📌 Problem Statement](#-problem-statement)
-  - [🗂️ Strategic Planning to Solve Problem](#️-strategic-planning-to-solve-problem)
-    - [⭐ Project Planning using Star Method](#-project-planning-using-star-method)
-    - [📝 S - Situation](#-s---situation)
-    - [🎯 T - Task](#-t---task)
-    - [⚡ A - Action](#-a---action)
-    - [🏆 R - Result](#-r---result)
-  - [📂 Data Source](#-data-source)
-  - [🔄 Data Preprocessing \& ETL](#-data-preprocessing--etl)
-  - [🗄️ Data Modelling](#️-data-modelling)
-  - [📊 Data Analysis](#-data-analysis)
-  - [📈 Dashboard](#-dashboard)
-  - [❓Findings](#findings)
-  - [⚙️ Tools, Software and Libraries](#️-tools-software-and-libraries)
+## Table of Contents
+  1. [Problem Statement](#-problem-statement)
+  2. [Project Planning using Star Method](#-project-planning-using-star-method)
+  3. [Data Source](#-data-source)
+  4. [Data Preprocessing \& ETL](#-data-preprocessing--etl)
+  5. [Data Modelling](#️-data-modelling)
+  6. [Data Analysis](#-data-analysis)
+  7. [Dashboard](#-dashboard)
+  8. [Findings](#findings)
+  9. [Tools and Softwares](#️-tools-software-and-libraries)
 
 
 ## 📌 Problem Statement
